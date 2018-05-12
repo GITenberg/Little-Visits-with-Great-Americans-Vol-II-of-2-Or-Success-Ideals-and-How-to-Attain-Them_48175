@@ -1,4 +1,5 @@
 _repo: Little-Visits-with-Great-Americans-Vol-II-of-2-Or-Success-Ideals-and-How-to-Attain-Them_48175
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,7 +9,12 @@ contributor:
       gutenberg_agent_id: '1515'
       url: http://www.gutenberg.org/2009/agents/1515
       wikipedia: http://en.wikipedia.org/wiki/Orison_Swett_Marden
+covers:
+- cover_type: archival
+  image_path: 48175-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48175#Little-Visits-with-Great-Americans-Vol-II-of-2-Or-Success-Ideals-and-How-to-Attain-Them
 gutenberg_issued: '2015-02-10'
 gutenberg_type: Text
 identifiers:
